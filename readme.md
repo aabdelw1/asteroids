@@ -81,7 +81,7 @@ the craft’s heading byangle_increment.
 velocity. Speed changes adjust the craft’s velocity byspeed_increment,
 maxing out atmax_speed.
 
-## Testing your code
+## Running the code
 
 Two local test scripts are provided with this project:
 
@@ -117,33 +117,5 @@ These testing suites are NOT complete, and you may need to develop other,
 more complicated, test cases to fully validate your code. We encourage you to
 share your test cases (only) with other students on Piazza.
 
-## Submitting your assignment
-
-Your submission will consist of the pilot.py file (only) which will be uploaded to
-Gradescope. Do not archive (zip,tar,etc) it. Your code must be valid python
-version 3 code, and you may use the numpy library.
-
-Your python file must execute NO code when imported. We encourage you to
-keep any testing code in a separate file that you do not submit. Your code
-should also NOT display a GUI or Visualization when we import or call your
-function under test. If we have to manually edit your code to comment out your
-own testing harness or visualization you will receive a -20 point penalty.
-
-## Academic Integrity
-
-You must write the code for this project alone. While you may make limited
-usage of outside resources, keep in mind that you must cite any such resources
-you use in your work (for example, you should use comments to denote a snippet
-of code obtained from StackOverflow, lecture videos, etc).
-
-You must not use anybody else’s code for this project in your work. We will
-use code-similarity detection software to identify suspicious code, and we will
-refer any potential incidents to the Office of Student Integrity for investigation.
-Moreover, you must not post your work on a publicly accessible repository; this
-could also result in an Honor Code violation [if another student turns in your
-
-
-code]. (Consider using the GT provided Github repository or a repo such as
-Bitbucket that doesn’t default to public sharing.)
 
 
